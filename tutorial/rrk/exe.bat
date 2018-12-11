@@ -1,0 +1,1 @@
+"C:\Users\Beauty\Anaconda3\envs\TensorFlow\python.exe" "FetchNewsUI.py" fid 1000000 lid 1000001 "" ""
