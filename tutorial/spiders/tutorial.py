@@ -5,7 +5,7 @@ import numpy as np
 import json
 from tutorial.rrk import captcha
 
-class rrkscrapper(scrapy.Spider):
+class tutorialscrapper(scrapy.Spider):
     name = 'tutorial'
     start_urls = ['http://www.rrk.ir/News/ShowNews.aspx?Code=%d' % (n) for n in range(12500000, 12000000,-1)]
 
