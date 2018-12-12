@@ -1,8 +1,5 @@
 import scrapy
-import os
-import json;
-import numpy as np
-import json
+
 from tutorial.rrk import captcha
 
 class tutorialscrapper(scrapy.Spider):
